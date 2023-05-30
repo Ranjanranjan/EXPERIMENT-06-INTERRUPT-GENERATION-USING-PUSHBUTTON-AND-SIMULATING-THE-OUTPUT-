@@ -84,10 +84,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 15. click on debug and simulate using simulation as shown below 
 
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
-
-## CIRCUIT DIAGRAM 
-<img width="557" alt="circuit" src="https://github.com/21003698/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/93427522/74c7ea68-f84d-4d12-8217-253d674ffffc">
-
  
  ## STM 32 CUBE PROGRAM :
  
@@ -209,7 +205,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="559" alt="output 1" src="https://github.com/21003698/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/93427522/7faf2562-f53f-4f67-be1b-09cb0d6ae2b8">
 
-<img width="556" alt="Screenshot 2023-05-22 135612" src="https://github.com/21003698/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/93427522/182c1bdc-baad-4e02-a392-ee25cf0f072c">
+<img width="557" alt="circuit" src="https://github.com/21003698/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/93427522/74c7ea68-f84d-4d12-8217-253d674ffffc">
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
